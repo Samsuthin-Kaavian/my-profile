@@ -1,2 +1,2 @@
-# my-profile
-Build professional profile
+# My Profile
+Build my professional profile
